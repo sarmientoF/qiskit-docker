@@ -1,2 +1,2 @@
 # qiskit-docker
-- [Docker](docker-compose.yml)
+- [Docker](Dockerfile)
